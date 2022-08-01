@@ -1,0 +1,172 @@
+
+/* Overall id*/
+#big_div{
+
+    background-color: rgb(186, 234, 255);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/* moon picture*/
+#moon_img{
+margin-left:775px;
+    
+    
+}
+
+/* intro( name and age)*/
+.intro{
+    color:black;
+   
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 90px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#intro2{
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+/* buttons*/
+#button_div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:150px; 
+
+    
+
+}
+.buttons{
+    
+    background-color: rgb(20, 75, 204);
+    
+    display:inline;  
+    justify-content: space-evenly;
+    padding:40px;
+    border-radius: 20%;
+    color:beige;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+   
+}
+
+
+
+/* about me*/
+#all_about_me{
+    display:inline-flex;
+}
+
+#about_me{
+    border-radius: 20%;
+    margin:40px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(7, 10, 115);
+    background-color: rgb(20, 75, 204);
+    color:beige;
+    margin-right: 100px;
+}
+
+#pictures_1{
+    margin:40px;
+   
+    
+
+  
+}
+.picture_iner{
+    
+   margin-left: 40px;
+   
+  
+    
+}
+
+/*headings*/
+
+.headings{
+    margin-left: 40px;
+    margin-top: 400px ;
+    font-size: 40px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color:black;
+}
+
+/* skill*/
+
+#all_skill{
+
+    display:inline-flex;
+}
+
+
+#skill_text{
+    margin-left:300px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(7, 10, 115);
+    background-color: rgb(20, 75, 204);
+    color:beige;
+    border-radius: 20%;
+    margin-right: 100px;
+
+}
+
+#picture_skill{
+    margin-left:50px;
+}
+
+
+/* project*/
+
+#project_text{
+    margin:40px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(7, 10, 115);
+    background-color: rgb(20, 75, 204);
+    color:beige;
+    border-radius: 10%;
+    margin-right: 100px;
+}
+
+/* contact info*/
+
+#contact{
+    margin-top: 100px;
+    margin-left:400px;
+    margin-right: 1050px;
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(7, 10, 115);
+    background-color: rgb(20, 75, 204);
+    color:beige;
+   
+}
+
+#contact_info{
+
+    margin-top: 50px;
+    margin-left:700px;
+    margin-right: 500px;
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(7, 10, 115);
+    background-color: rgb(20, 75, 204);
+    color:beige;
+
+}
+
+
